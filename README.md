@@ -7,7 +7,14 @@ When the values of m(number of failures) and n(sample size) are large, the compu
 # Software needed
   RStudio (R studio can be downloaded from https://www.rstudio.com/products/rstudio/download/) 
 
-# Contributors :-
+# Running the program- Progressive censoring-Logistic Distribution.R 
+Steps:-
+1. click on Progressive censoring-Logistic Distribution.R
+2. Click on 'Open this file in Github Desktop' icon which will appear on the top-right side of the program.
+3. Assuming that Github desktop is installed in your system(which can be otherwise installed from https://desktop.github.com/), click on 'open link' after selecting Github Desktop.
+4. Click on Clone repository and you will get a separate folder created in your local drive where Github is installed. You can now  access the R code (Progressive censoring-Logistic Distribution.R) and run the program assuming that RStudio is installed in your system. 
+
+# Contributors 
  1.	Jagdish Saran, Department of Statistics, University of Delhi, Delhi - 110001
  2.	Kamal Nain, Department of Statistics, Hindu College, Delhi - 110001
  3.	Akash PB, Department of Industrial Engineering & Operations Research, IITB, Mumbai-400076
